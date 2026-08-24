@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0b6fa4"       # Your professional blue
+backgroundColor = "#ffffff"    # Main app background
+secondaryBackgroundColor = "#f0f2f6" # Sidebar background
+textColor = "#262730"          # Standard text color
+font = "sans serif"
